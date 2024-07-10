@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucas-Mombach and I'm studing Computer Science at UFV (Federal University of Viçosa in Brazil)
-- 👀 I’m interested in Human History, Bakckend Development and Calisthenics
+- 👀 I’m interested in Human History, Backend Development and Calisthenics
 - 🌱 I’m currently learning German
 
 <!---
